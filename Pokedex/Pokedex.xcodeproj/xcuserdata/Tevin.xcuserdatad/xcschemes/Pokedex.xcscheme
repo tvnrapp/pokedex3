@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "132A55561EF09A900016FC3E"
+               BlueprintIdentifier = "132A55CA1EF09B4B0016FC3E"
                BuildableName = "Pokedex.app"
                BlueprintName = "Pokedex"
                ReferencedContainer = "container:Pokedex.xcodeproj">
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "132A556A1EF09A900016FC3E"
+               BlueprintIdentifier = "132A55DE1EF09B4C0016FC3E"
                BuildableName = "PokedexTests.xctest"
                BlueprintName = "PokedexTests"
                ReferencedContainer = "container:Pokedex.xcodeproj">
@@ -42,7 +42,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "132A55751EF09A900016FC3E"
+               BlueprintIdentifier = "132A55E91EF09B4C0016FC3E"
                BuildableName = "PokedexUITests.xctest"
                BlueprintName = "PokedexUITests"
                ReferencedContainer = "container:Pokedex.xcodeproj">
@@ -52,7 +52,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "132A55561EF09A900016FC3E"
+            BlueprintIdentifier = "132A55CA1EF09B4B0016FC3E"
             BuildableName = "Pokedex.app"
             BlueprintName = "Pokedex"
             ReferencedContainer = "container:Pokedex.xcodeproj">
@@ -75,7 +75,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "132A55561EF09A900016FC3E"
+            BlueprintIdentifier = "132A55CA1EF09B4B0016FC3E"
             BuildableName = "Pokedex.app"
             BlueprintName = "Pokedex"
             ReferencedContainer = "container:Pokedex.xcodeproj">
@@ -94,7 +94,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "132A55561EF09A900016FC3E"
+            BlueprintIdentifier = "132A55CA1EF09B4B0016FC3E"
             BuildableName = "Pokedex.app"
             BlueprintName = "Pokedex"
             ReferencedContainer = "container:Pokedex.xcodeproj">
